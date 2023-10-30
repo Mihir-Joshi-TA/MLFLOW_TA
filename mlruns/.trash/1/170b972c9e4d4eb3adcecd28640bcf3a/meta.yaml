@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/170b972c9e4d4eb3adcecd28640bcf3a/artifacts
+end_time: 1698298641041
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 170b972c9e4d4eb3adcecd28640bcf3a
+run_uuid: 170b972c9e4d4eb3adcecd28640bcf3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698298639186
+status: 3
+tags: []
+user_id: joshmihi
